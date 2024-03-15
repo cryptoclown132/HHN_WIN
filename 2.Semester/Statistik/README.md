@@ -1,5 +1,5 @@
 <h1 align="center">prof-website</h1>
-http://profh4.com/
+<div align="center">http://profh4.com/</div>
 
 <h1 align="center">Youtube channel mit Vorlesungen</h1>
 
